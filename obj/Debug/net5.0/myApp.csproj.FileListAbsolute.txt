@@ -1,0 +1,15 @@
+/Users/ossamaahmad/development/myApp/bin/Debug/net5.0/myApp.deps.json
+/Users/ossamaahmad/development/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/Users/ossamaahmad/development/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/Users/ossamaahmad/development/myApp/bin/Debug/net5.0/myApp.dll
+/Users/ossamaahmad/development/myApp/bin/Debug/net5.0/ref/myApp.dll
+/Users/ossamaahmad/development/myApp/bin/Debug/net5.0/myApp.pdb
+/Users/ossamaahmad/development/myApp/obj/Debug/net5.0/myApp.csprojAssemblyReference.cache
+/Users/ossamaahmad/development/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ossamaahmad/development/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/Users/ossamaahmad/development/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/Users/ossamaahmad/development/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/Users/ossamaahmad/development/myApp/obj/Debug/net5.0/myApp.dll
+/Users/ossamaahmad/development/myApp/obj/Debug/net5.0/ref/myApp.dll
+/Users/ossamaahmad/development/myApp/obj/Debug/net5.0/myApp.pdb
+/Users/ossamaahmad/development/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
